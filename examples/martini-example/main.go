@@ -2,8 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/auth0/go-jwt-middleware"
-	"github.com/dgrijalva/jwt-go"
+	"github.com/elorusso/go-jwt-middleware"
+	"github.com/elorusso/jwt-go/v3"
 	"github.com/go-martini/martini"
 	"net/http"
 )

@@ -28,7 +28,7 @@ import (
   "net/http"
 
   "github.com/auth0/go-jwt-middleware"
-  "github.com/dgrijalva/jwt-go"
+  "github.com/elorusso/jwt-go/v3"
   "github.com/gorilla/context"
 )
 
@@ -70,7 +70,7 @@ import (
 
   "github.com/auth0/go-jwt-middleware"
   "github.com/codegangsta/negroni"
-  "github.com/dgrijalva/jwt-go"
+  "github.com/elorusso/jwt-go/v3"
   "github.com/gorilla/mux"
 )
 
