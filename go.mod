@@ -1,4 +1,4 @@
-module gihub.com/elorusso/go-jwt-middleware
+module github.com/elorusso/go-jwt-middleware
 
 go 1.12
 
