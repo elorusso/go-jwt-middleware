@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/dgrijalva/jwt-go"
+	"github.com/elorusso/jwt-go/v3"
 	"log"
 	"net/http"
 	"strings"
